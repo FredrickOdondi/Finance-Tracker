@@ -45,7 +45,7 @@ This project leverages **Spring Boot**, **PostgreSQL**, and modern APIs to deliv
 
 Watch the demo video below to see the **Personal Finance Tracker** in action:
 
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Demo Video](https://www.youtube.com/watch?v=OUMXbm7LPt8)
 
 > *Click the image above to watch the video on YouTube.*
 
