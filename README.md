@@ -57,7 +57,7 @@ Watch the demo video below to see the **Personal Finance Tracker** in action:
 - **Database**: PostgreSQL
 - **API Integration**: Open Exchange Rates API for currency conversion
 - **Chart Generation**: JFreeChart for visualizing financial data
-- **Programming Language**: Java 17
+- **Programming Language**: Java 23
 - **Build Tool**: Maven
 - **Testing Framework**: JUnit 5, Mockito
 - **Version Control**: Git
@@ -70,4 +70,4 @@ Follow these steps to set up the project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/personal-finance-tracker.git
+   git clone https://github.com/FredrickOdondi/personal-finance-tracker.git
